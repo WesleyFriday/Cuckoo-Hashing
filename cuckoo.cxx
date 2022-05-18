@@ -1,5 +1,3 @@
-// Assignment 3: Cuckoo Hashing algorithm
-// Doina Bein
 // An open addressing method called Cuckoo Hashing
 // INPUT: an input file containing strings of maximum 255 characters,
 // one string per line
